@@ -1,5 +1,5 @@
 body {
-  background-color: #ffe5ec;
+  background-color: #C9A0FF;
 }
 
 .candle-count-display {
@@ -56,8 +56,8 @@ body {
   width: 250px;
   height: 100px;
   border-radius: 50%;
-  background-color: #976F4c;
-  box-shadow: 0 2px 0px #976f4c, 0 4px 0px #976F4c, 0 6px 0px #976F4c, 0 8px 0px #976F4c, 0 10px 0px #411900, 0 12px 0px #411900, 0 14px 0px #976F4c, 0 16px 0px #976F4c, 0 18px 0px #976F4c, 0 20px 0px #976F4c, 0 22px 0px #976F4c, 0 24px 0px #976F4c, 0 26px 0px #976F4c, 0 28px 0px #976F4c, 0 30px 0px #976F4c;
+  background-color: #6F3096;
+  box-shadow: 0 2px 0px #6F3096, 0 4px 0px #6F3096, 0 6px 0px #6F3096, 0 8px 0px #6F3096, 0 10px 0px #411900, 0 12px 0px #411900, 0 14px 0px #6F3096, 0 16px 0px #6F3096, 0 18px 0px #6F3096, 0 20px 0px #6F3096, 0 22px 0px #6F3096, 0 24px 0px #6F3096, 0 26px 0px #6F3096, 0 28px 0px #6F3096, 0 30px 0px #6F3096;
 }
 
 .layer-top {
@@ -87,8 +87,8 @@ body {
   right: 5px;
   bottom: 6px;
   left: 5px;
-  background-color: #EAD8BB;
-  box-shadow: 0 0 4px #EAD8BB, 0 0 4px #EAD8BB, 0 0 4px #EAD8BB;
+  background-color: #D8BFD8;
+  box-shadow: 0 0 4px #D8BFD8, 0 0 4px #D8BFD8, 0 0 4px #D8BFD8;
   border-radius: 50%;
   z-index: 1;
 }
@@ -99,7 +99,7 @@ body {
   height: 60px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: #EAD8BB; 
+  background-color: #D8BFD8; 
 }
 
 .drip1 {
